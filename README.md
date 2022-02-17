@@ -2,6 +2,14 @@
 
 Peak is a simple web applications that helps you remember anything, super fast!
 
+It's using a learning techniqued described by human performance researched K. Anders Ericsson in his book [Peak](https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise).
+
+In Peak, you create questionnaires for you to train on, to remember theriotical concepts, for example. When you give an incorrect answer to a question, you will return two questions backwards. 
+
+Example: you gave an incorrect answer to question number 7, you go back to question number 5.
+
+With this memory training technique, K. Anders Ericsson was able to train on of his student, Steve Faloon, to break a memory record.
+
 ## How to use it?
 
 1. Go to https://peak.tinyappstack.com
